@@ -1,2 +1,3 @@
-# brighton-alt-net
-Brighton ALT NET
+# Brighton ALT NET
+
+Welcome to the Brighton ALT NET GitHub repository.
